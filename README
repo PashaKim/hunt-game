@@ -16,9 +16,9 @@ Example script output:
 >[24, 13, 45, 12, 34]
 >[42, 22, 43, 32, 41]
 >[51, 23, 33, 54, 15]
->Pass or select clues like: 11, 55, 15 : <23, 11, 55>
->You select clues:[23, 11, 55]
+>Pass or select clues like: 11, 55, 15 : <11, 55>
+>You select clues:['11', '55']
 >Select method: F - functional, C - class based: <F>
 >You select "Functional" method.
 >Treasure is: 43
->[23, 11, 55, 15, 21, 44, 32, 13, 25, 43]
+>[11, 55, 15, 21, 44, 32, 13, 25, 43]
